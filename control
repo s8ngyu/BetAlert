@@ -1,9 +1,9 @@
 Package: com.peterdev.betalert
 Name: BetAlert
-Depends: mobilesubstrate
-Version: 0.0.1
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.2)
+Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Have you ever felt pains of iOS beta alert?
 Maintainer: PeterDev <djperter@icloud.com>
 Author: PeterDev <djperter@icloud.com>
 Section: Tweaks
